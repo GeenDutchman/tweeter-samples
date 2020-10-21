@@ -1,10 +1,12 @@
 <resources>
     <string name="app_name">Tweeter</string>
 
+    <string name="logoutMenuTitle">Logout</string>
+
     <string name="homePageTitle">Home</string>
     <string name="userImageContentDescription">The user\'s image</string>
 
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Tweeter</string>
     <string name="loadingData">Loading More Data…</string>
     <string name="feedTabTitle">Feed</string>
     <string name="storyTabTitle">Story</string>
@@ -14,4 +16,6 @@
     <string name="sampleAlias">"@UserAlias"</string>
     <string name="sampleUserName">The User</string>
     <string name="title_activity_login">Sign in</string>
+    <string name="followeeCount">Following: %d</string>
+    <string name="followerCount">Followers: %d</string>
 </resources>
